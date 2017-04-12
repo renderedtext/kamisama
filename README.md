@@ -1,6 +1,6 @@
 # Kamisama
 
-[![Build Status](https://semaphoreci.com/api/v1/shiroyasha/kamisama/branches/master/badge.svg)](https://semaphoreci.com/shiroyasha/kamisama)
+[![Build Status](https://semaphoreci.com/api/v1/renderedtext/kamisama/branches/master/badge.svg)](https://semaphoreci.com/renderedtext/kamisama)
 
 Start, monitor, and observe background worker processes, from Ruby.
 
